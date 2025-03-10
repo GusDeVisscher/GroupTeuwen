@@ -4,7 +4,6 @@
 <template>
   <main>
     <div class="flex align-items-center justify-content-between">
-      <img src="@/assets/gehakt_logo_in_hout.png" alt="">
     </div>
   </main>
 </template>

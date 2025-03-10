@@ -1,7 +1,7 @@
 <template>
   <nav class="flex justify-content-between align-items-center w-full text-white p-4 fixed top-0 left-0 shadow-md">
     <div class="flex flex-row align-items-center">
-      <img src="@/assets/text_slogan_white.png" class="w-10rem" alt="">
+      <img src="" class="w-10rem" alt="Logo">
     </div>
 
     <div class="flex gap-4">
@@ -18,7 +18,7 @@
 
 <style scoped>
 nav{
-  background: #1F3B29;
+  background: #2c8f96;
 }
 /* Styling for navigation links */
 .nav-link {
