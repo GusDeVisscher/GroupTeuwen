@@ -7,7 +7,7 @@
     <div class="flex gap-4">
       <RouterLink to="/" class="nav-link">Home</RouterLink>
       <RouterLink to="/about" class="nav-link">About</RouterLink>
-      <RouterLink to="/products" class="nav-link">Products</RouterLink>
+      <RouterLink to="/products" class="nav-link">realisaties</RouterLink>
       <RouterLink to="/contact" class="nav-link">Contact</RouterLink>
     </div>
   </nav>
