@@ -14,7 +14,7 @@
         <p>Instagram: </p>
       </div>
       <div class="flex flex-column align-items-start">
-        <p> charlenteuwen@gmail.com</p>
+        <p> charlesteuwen@gmail.com</p>
         <p> +32476618743</p>
         <p> @teuwenProjects</p>
       </div>
